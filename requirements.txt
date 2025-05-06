@@ -13,3 +13,4 @@ joblib
 numpy
 scikit-learn
 ./dependencies/car_predictor-0.1-py3-none-any.whl
+gunicorn
